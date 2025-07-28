@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+*{
+    scroll-behavior: smooth;
+}
+
+.banner {
+  min-height: 100vh;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* Deep blue-gray gradient */
+}
+
+#banner-1 {
+  left: 0;
+  width: 25%;
+}
+
+#banner-2 {
+  left: 25%;
+  width: 25%;
+}
+
+#banner-3 {
+  left: 50%;
+  width: 25%;
+}
+
+#banner-4 {
+  left: 75%;
+  width: 25%;
+}
