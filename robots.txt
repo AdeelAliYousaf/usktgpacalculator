@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adeelaliyousaf.github.io/usktgpacalculator/sitemap.xml
+
+Host: https://adeelaliyousaf.github.io/usktgpacalculator
+
+Disallow: /assets/*.map
+Disallow: /*.js
+Disallow: /*.jsx
+Disallow: /*.scss
